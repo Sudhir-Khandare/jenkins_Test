@@ -19,7 +19,7 @@ class Test {
             }
             b[j] = a[n - 1];
         }
-
+        System.out.println("This is demo");
         System.out.println(Arrays.toString(b));
     }
 }
